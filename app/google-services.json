@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1069531991437",
+    "firebase_url": "https://mobilebisnis-265ca.firebaseio.com",
+    "project_id": "mobilebisnis-265ca",
+    "storage_bucket": "mobilebisnis-265ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069531991437:android:86dab249b03ec65828c1c4",
+        "android_client_info": {
+          "package_name": "com.example.uts_amub_ti7jm_1711500043_m_yusuf_al_qadri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069531991437-2idtmlk0r3f9tgm5lbtclbikp3t9jpvg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiMsg-4wQ6d1a_mXayBpkPIPAqfGMmKJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069531991437-2idtmlk0r3f9tgm5lbtclbikp3t9jpvg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
